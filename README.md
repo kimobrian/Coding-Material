@@ -163,14 +163,9 @@ cd - change into a certain directory
 
 Commands are case sensitive, i.e ls is not the same as LS. These commands also take options and you'll learn more as you go by.
 
-**Windows default terminal is called Command Prompt an d is not very good when coding, so install a new command line called [Git Bash](https://www.atlassian.com/git/tutorials/git-bash).**
+**Windows default terminal is called Command Prompt and is not very good when coding, so install a new command line called [Git Bash](https://www.atlassian.com/git/tutorials/git-bash).**
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![image](https://github.com/kimobrian/coding-material/assets/22055697/3a1763b1-a0f5-490a-b132-83c47a71fb36)
 
 
 **<span style="text-decoration:underline;">Objectives</span>**

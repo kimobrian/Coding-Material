@@ -85,12 +85,8 @@ This section will teach you a concept called version control. At some point when
 
 Note: Version Control systems can be used for more than just code. Do you want to use this with you word documents? You can. You can make a change today, add another next week, next month, next year in the same document and you'll be able to jump between all the versions of the documents even after 10 years. You can go back to when you had one page and come back to when you;ve 200 pages. You can collaborate and compare new changes and merge them, you can undo anything with no issue. For example, below is the history of code I've been working on. It clearly shows who, when and what I did. Using some command, I can jump to a certain version and the document will automatically show how it was then.
 
+![image](https://github.com/kimobrian/coding-material/assets/22055697/9efbb8ea-e49a-4ceb-a394-3aecf39ac770)
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
 
 
 **<span style="text-decoration:underline;">Objectives</span>**

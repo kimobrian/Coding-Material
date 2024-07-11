@@ -32,13 +32,11 @@ Learn the fundamentals of computers and programming.
 These links' content will introduce you to how computers work. You'll get a high level understanding of computer memory, hardware and software concepts. If you've never been to a computer science class(even if you;ve been), this is a very important intro to different concepts that will make you understand how computers work.
 
 For example, from the top of my head I can tell you how a program works. If you've a program to add 2 numbers: 
-
+```
   function addition(x, y) {
-
         return x+y  
-
   }
-
+```
 In programming they're called functions(old languages call them procedures). The function takes two variables(values that can change their value) and returns their sum. The computer reads the program and stores it into memory. It stores the variables you provide in memory too. When it wants to execute the function, it reads these values into RAM(temporary high speed memory where programs are stored during execution). This is like picking a task from a queue and starting to work on it. The processor(CPU) reads from RAM, performs the summation in the ALU(arithmetic and logic unit) and returns the result. These results will then be displayed to the user. There's a lot that goes on like how many tasks are on the queue, how does the processor determine the next task, what if a task is taking too long with the processor that other tasks "starve" on the queue. What if task A holds onto a resource that another task B requires while task B holds onto a resource that A requires, they're in a deadlock. The CPU has ways of scheduling these tasks using different algorithms/methods. You don't need to know everything, just the basics are enough. We defined the above function but how do we use it?
 
 There's defining a function and using it(calling the function). And this is how we call it.
